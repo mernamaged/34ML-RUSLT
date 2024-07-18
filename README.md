@@ -26,4 +26,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 firstly i made three models with migrations user,lesson,comment 
 the user must watch the lesson and when achieve the first achievement will appear to the user and retrun only what is the next achievemnt. the total lessons and total comments give the number of the badge and it ill apear in which badge the user is and how many points remain for the next achievement.
 # 34ML-RUSLT
- 
+
+## POSTMAN 
+i send the link of postman via email shared the api get request mentioned in the task
+##
+i already inserted data by seeder to make it easily for you
